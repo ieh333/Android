@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Transportation Task</string>
+    <string name="btn">Calculate</string>
+</resources>
